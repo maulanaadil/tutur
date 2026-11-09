@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /ketik
+Disallow: /orang-tua
+Disallow: /_sitemap

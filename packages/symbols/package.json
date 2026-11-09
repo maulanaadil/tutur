@@ -1,0 +1,19 @@
+{
+  "name": "@tutur/symbols",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "exports": { ".": "./src/index.ts" },
+  "scripts": {
+    "sync": "node scripts/sync.ts",
+    "typecheck": "tsc"
+  },
+  "dependencies": {
+    "@tutur/vocab": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "openmoji": "17.0.0",
+    "typescript": "~6.0.3"
+  }
+}

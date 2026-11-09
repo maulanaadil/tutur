@@ -1,0 +1,1024 @@
+{
+  "phrases/bagus": {
+    "hash": "29e2401507a656526bc680475c72a561e7ab4cb4088790ca861e4a9479521596",
+    "text": "Bagus!",
+    "transcript": "Bagus.",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "phrases/hebat": {
+    "hash": "68aa74a470773bd27baf9172958e8dac88462660b62e11fb3dfd068e6e527b7c",
+    "text": "Hebat!",
+    "transcript": "Hebat!",
+    "seed": 43,
+    "verifiedBy": "whisper"
+  },
+  "phrases/pintar": {
+    "hash": "9f03c5ac3cf8a38687ca133bc1d540077efef813be4366ed07150fcb599c8964",
+    "text": "Pintar sekali!",
+    "transcript": "Pintar sekali?",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/adik": {
+    "hash": "ddef8d04d22bc044ff5701d7e08cefeb00f312842460754657ad0a6551a7025d",
+    "text": "adik",
+    "transcript": "Adik",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/air": {
+    "hash": "c9aa9b75565be6c96411b2cb5996613065d1b2ce0b212c94f773102fb490f245",
+    "text": "air",
+    "transcript": "Air",
+    "seed": 45,
+    "verifiedBy": "whisper"
+  },
+  "words/aku": {
+    "hash": "25db7bf35b87657c8e13f00d8e3b72bd890638fe739efb8114d32610a22ecaa7",
+    "text": "aku",
+    "transcript": "Aku",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/ambil": {
+    "hash": "013464383292835b95913ddde434f2cedfadd25ce4ccf58214465d60c195ebee",
+    "text": "ambil",
+    "transcript": "Ambil",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/anjing": {
+    "hash": "51e09ee51d0d8ddfa0c05b2a9d0302113ef1a3e1ad6635d4725d1f1d8fe21f99",
+    "text": "anjing",
+    "transcript": "Anjing",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/apa": {
+    "hash": "16a8ae0d028f6abc2ab91c499c9dbebc563d6ca6778c3d773c3b1d08b573114d",
+    "text": "apa",
+    "transcript": "Apa?",
+    "seed": 43,
+    "verifiedBy": "whisper"
+  },
+  "words/apel": {
+    "hash": "c38bf24c2354c7c41afa81eec506c161fad1c2ef04e601a191c5b35bf9ad70d3",
+    "text": "apel",
+    "transcript": "Apa?",
+    "seed": 47,
+    "verifiedBy": null
+  },
+  "words/ayah": {
+    "hash": "290e282ac5fa895bef7ddc0c075465f5083e652ba4a318586d42e39c74ab7126",
+    "text": "ayah",
+    "transcript": "Ayah",
+    "seed": 46,
+    "verifiedBy": "whisper"
+  },
+  "words/ayam": {
+    "hash": "afaf6d870a1f78353d596423fbace3e4866371793b9095eaae1d0a81e8d1bf6c",
+    "text": "ayam",
+    "transcript": "",
+    "seed": 47,
+    "verifiedBy": null
+  },
+  "words/baju": {
+    "hash": "8663f1993feb067302cf08ee4cbba5a69ac0c20b7b9d1021e4ea7260ded05f8f",
+    "text": "baju",
+    "transcript": "Baju",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/balok": {
+    "hash": "47d8c4614602074b749b8939373e85b97aa364ce276797d1b1bdd06dfb3a5a1f",
+    "text": "balok",
+    "transcript": "Balok",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/balon": {
+    "hash": "be7202a792c0f56056485faedbdf42565faf8efd528c070b55dab8343d42d26b",
+    "text": "balon",
+    "transcript": "Balon",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/bantu": {
+    "hash": "6b566ee6236170444b832adc4c6f7901ce862e0691fcf89887c0c12595d6bc0f",
+    "text": "bantu",
+    "transcript": "Bantu",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/bayi": {
+    "hash": "c914c7fd3a6f6d99b5f3b836cd5f0e6d39c571725b8cffbaf6a3ff7492039ad9",
+    "text": "bayi",
+    "transcript": "Bayi",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/bebek": {
+    "hash": "913e269d216b317406b979853c27ffc6158bcee48c39e420589a6d754e79ec8f",
+    "text": "bebek",
+    "transcript": "Bebek",
+    "seed": 43,
+    "verifiedBy": "whisper"
+  },
+  "words/berapa": {
+    "hash": "d55d6607da3ad0c7047e3ed88d40162f0d9743615a941de5a3d8fb6af05685a4",
+    "text": "berapa",
+    "transcript": "Berapa?",
+    "seed": 43,
+    "verifiedBy": "whisper"
+  },
+  "words/berdiri": {
+    "hash": "4ba056b9b0488a297d4020bb5bcd9ab559334976d3904552c4c7a167193cdee4",
+    "text": "berdiri",
+    "transcript": "Berdiri",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/berhenti": {
+    "hash": "bdb3382607fdbc36bfa47baea5ed2b2153f9befc05d873e122aee722ee1a6ec1",
+    "text": "berhenti",
+    "transcript": "Berhenti",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/bingung": {
+    "hash": "0f7d1465ce18f0cf92abbb51dc0602f94b5293a55591fbb1a2394437eb1dd642",
+    "text": "bingung",
+    "transcript": "Bingung",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/biru": {
+    "hash": "07884c022938149002e0e0f5b1cb4dbf5809c68054d6fbcd6b206a78b2a840ef",
+    "text": "biru",
+    "transcript": "Biruk",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/biskuit": {
+    "hash": "f3f31a827f40c14b4ac4a0bcd1cc9b90d6374d9b35d7286a904eb93ae1d04cea",
+    "text": "biskuit",
+    "transcript": "biskuit",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/bola": {
+    "hash": "14e30b5ac9ec037069f769f601b840f75a3bd06ea2c41cc891b501716e4c5959",
+    "text": "bola",
+    "transcript": "Bola",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/boneka": {
+    "hash": "3b449cdc928da9a96dde95f566b7be10a28eba31f01c3017331a4a0b06ee4ab4",
+    "text": "boneka",
+    "transcript": "Boneka",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/bosan": {
+    "hash": "f4b262ab796b9c933f173456f58cc07315887bc38921869f4c031c07f61265f1",
+    "text": "bosan",
+    "transcript": "Bosan",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/buka": {
+    "hash": "46cb4229e036150e1cb3440340bda8cb3fdf94decaa67aec1fc6656c89d6c4aa",
+    "text": "buka",
+    "transcript": "Buka",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/buku": {
+    "hash": "aaa01015156eff261f97b2ee77b1a4a09e92c1a0c651907bfde48cd1e417432e",
+    "text": "buku",
+    "transcript": "Buku?",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/burung": {
+    "hash": "9ad525d5a12205e8ddd795fe7ae4687e6c256e45510f4430f7c1c2c3492838e7",
+    "text": "burung",
+    "transcript": "Burung",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/capek": {
+    "hash": "6d5efba516a5a4fb16a4d1054bfa011e724b792e80767396636f1c6aa9488bcb",
+    "text": "capek",
+    "transcript": "Chape",
+    "seed": 47,
+    "verifiedBy": null
+  },
+  "words/celana": {
+    "hash": "1da9be38902789f1bb941ff1fc003c6c6ea6c7695404108fc21e2a3792f4d556",
+    "text": "celana",
+    "transcript": "Celana",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/cokelat": {
+    "hash": "ef6d26776eb97664036b449ab518e5f7f3a0f51cd574c58d45837f57746952bb",
+    "text": "cokelat",
+    "transcript": "Coklat",
+    "seed": 47,
+    "verifiedBy": null
+  },
+  "words/cuci_tangan": {
+    "hash": "9b0632ed1e51bab7186ccfc0f0e6d0ae8c6c04e0748a9174b8aa48ea091f195b",
+    "text": "cuci tangan",
+    "transcript": "Cuci tangan",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/dapur": {
+    "hash": "284e1576e5395bcc9058ca85fbc4c9e5985665b64558be802d907f057cd96ecd",
+    "text": "dapur",
+    "transcript": "Dapur",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/di_mana": {
+    "hash": "ed391ab78950cf104a8a68208b40b8952a6df80dd4c201b01bf24fdd892927d6",
+    "text": "di mana",
+    "transcript": "Dimana?",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/dokter": {
+    "hash": "7abab4a63c6a02886eb893f3b3478ef2903e310f5b8890848b60f1dc48fad576",
+    "text": "dokter",
+    "transcript": "Dokter",
+    "seed": 43,
+    "verifiedBy": "whisper"
+  },
+  "words/duduk": {
+    "hash": "e1a5ca2c3ee76d3755fbf0713fa737a03de51133d7e0dfd3192cb9d21633f16b",
+    "text": "duduk",
+    "transcript": "Duduk",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/es_krim": {
+    "hash": "76fb30378de3147652f6a0cb73a843648ceb6c1dd590ddc1600cee6efb453903",
+    "text": "es krim",
+    "transcript": "Eskrim",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/gajah": {
+    "hash": "f7f8f879bdfac037ff681c9c1bf3546d133f7fdc4c25d3c3c586d7fb6ed5ac5f",
+    "text": "gajah",
+    "transcript": "Gajah",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/game": {
+    "hash": "6a43402cd96eee86e25c5c02e7ea080fc71fb985cfb1b36983de711110cee7a9",
+    "text": "gim",
+    "transcript": "Gim",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/gigi": {
+    "hash": "6cc5726dc1f42e87ef344fef38c1c89f80062dda2a3194e2fe1b042fa4b9c044",
+    "text": "gigi",
+    "transcript": "Gigi",
+    "seed": 43,
+    "verifiedBy": "whisper"
+  },
+  "words/guru": {
+    "hash": "e563b29dff4d8a984a02dd9123819f9ae3783d90cec825ed5b20ddc7d0093e27",
+    "text": "guru",
+    "transcript": "GURU",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/halo": {
+    "hash": "3f3503dc28c99b91268863b8712af63fcb2571d6b69f22681db7a00c91397d78",
+    "text": "halo",
+    "transcript": "Halo?",
+    "seed": 43,
+    "verifiedBy": "whisper"
+  },
+  "words/haus": {
+    "hash": "a222846f9f9a6f33a2a5daa14ed1b83d1ee1b15e21b7e07125cfc7a87d08be26",
+    "text": "haus",
+    "transcript": "Haus?",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/hidung": {
+    "hash": "56fd7946b2a8b7c0a945e8bdd54c1e4af135db7f9fc73a1da48e858fbbdfff71",
+    "text": "hidung",
+    "transcript": "Hidung",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/hijau": {
+    "hash": "8099c23a9edda18e49064e09f5864b2f8b4da0d35a1f0e29c04024db8ea305ed",
+    "text": "hijau",
+    "transcript": "hijau",
+    "seed": 44,
+    "verifiedBy": "whisper"
+  },
+  "words/hitam": {
+    "hash": "ec020abb84600082e419ceac95d2ec6a1042ea837884eac5711348ef0bf054a4",
+    "text": "hitam",
+    "transcript": "Hitam",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/hp": {
+    "hash": "35163c15c77e476f66e8e5606bb3163cf76225cf2ea71d5233de460237142edd",
+    "text": "hape",
+    "transcript": "Hape",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/ibu": {
+    "hash": "878c65038464f914a8f799b5e800529c07b016e57b7c7de0a121f71794fc6819",
+    "text": "ibu",
+    "transcript": "Ibu",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/ikan": {
+    "hash": "10f2a9b0b04bc9578e95ed42bb3291bf1b6c87c5583910429841382f713e261a",
+    "text": "ikan",
+    "transcript": "Ikan",
+    "seed": 43,
+    "verifiedBy": "whisper"
+  },
+  "words/ini": {
+    "hash": "8ff8df35dcf621870324dfd7bb7e3a1d73e767792e863e82ca759cc09b7cd28d",
+    "text": "ini",
+    "transcript": "Ini",
+    "seed": 43,
+    "verifiedBy": "whisper"
+  },
+  "words/jaket": {
+    "hash": "bd5bc4ff5df47453db5cbb6d5b25d7215e3fd9ac273c77af0957dbab831175fc",
+    "text": "jaket",
+    "transcript": "Jaket",
+    "seed": 43,
+    "verifiedBy": "whisper"
+  },
+  "words/jeruk": {
+    "hash": "e6d9734449d38fbec4ec02fc2d7a8fde115389e46d33d010d2f4bd9de3e02f40",
+    "text": "jeruk",
+    "transcript": "Jeruk",
+    "seed": 43,
+    "verifiedBy": "whisper"
+  },
+  "words/jus": {
+    "hash": "82bc27c737fb15d2505d150c53b74309cc8010c850b28a94fba3de4d051c37d3",
+    "text": "jus",
+    "transcript": "Jus",
+    "seed": 44,
+    "verifiedBy": "whisper"
+  },
+  "words/kacamata": {
+    "hash": "5a441b15e7c8ae03c913c81e0011a2ee82db0aaae1bf34b9f59484142e8e1c0a",
+    "text": "kacamata",
+    "transcript": "kacamata",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/kaget": {
+    "hash": "ec3c6d159d9260ef57f0389b2f5a583f09f88cc3f2168e1bc04d94a321a48d9a",
+    "text": "kaget",
+    "transcript": "Kaget",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/kakak": {
+    "hash": "aac18f63e116f4f47952705992bb479a47eb829ddce97aeaa219d349bf13c1f5",
+    "text": "kakak",
+    "transcript": "",
+    "seed": 47,
+    "verifiedBy": null
+  },
+  "words/kakek": {
+    "hash": "f0d3c4d5692413486e0845345e7a511fc6be94e66e51fe080e15fe31077ed23f",
+    "text": "kakek",
+    "transcript": "Kake",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/kaki": {
+    "hash": "a7cceb194b461f61149c1e7e2be009609c09b17c67c7ae28ea66a4684f2bce32",
+    "text": "kaki",
+    "transcript": "Kaki",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/kamar_mandi": {
+    "hash": "3e8d92707dc2fe19956cc46918e4f26e804c34412a43d21fd21b9a6320cb8c8c",
+    "text": "kamar mandi",
+    "transcript": "Kamar mandi",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/kamu": {
+    "hash": "6fde8b1f81edcdaae415273892a308b6eb0ab5596f4f5756b795e3a5f9009585",
+    "text": "kamu",
+    "transcript": "Kamu?",
+    "seed": 1024969084,
+    "verifiedBy": "listener"
+  },
+  "words/kapan": {
+    "hash": "fdcb8cfaa650f93e20b508dc47f5298af7ef02ac801bd7bb7109bc1fd174445e",
+    "text": "kapan",
+    "transcript": "Kapan?",
+    "seed": 45,
+    "verifiedBy": "whisper"
+  },
+  "words/kasih": {
+    "hash": "f801a683ef1b8b077998e4bf9df22f1fa4a5c01038f71e59671838d145ca4be8",
+    "text": "kasih",
+    "transcript": "Kasih",
+    "seed": 45,
+    "verifiedBy": "whisper"
+  },
+  "words/katak": {
+    "hash": "950f14f38c879327ca48e9261e07b7acdb1f23e747d886736b3c354c09bbe785",
+    "text": "katak",
+    "transcript": "Kata",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/kaus_kaki": {
+    "hash": "6809ba6d7375a485fd514f5ace80823176ba92663c88c8b598a221ac24642f1b",
+    "text": "kaus kaki",
+    "transcript": "KAUS KAKI",
+    "seed": 47,
+    "verifiedBy": "whisper"
+  },
+  "words/kelinci": {
+    "hash": "5882a8fd00af25b0e3ee19d7a94aea2de4b10281a9b8776fb17a8ce0d8faac7d",
+    "text": "kelinci",
+    "transcript": "Kelinci",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/kenapa": {
+    "hash": "b46acfcbdfbe5fd84d7daa8541f00ae035db714f777253398728fab08ff49710",
+    "text": "kenapa",
+    "transcript": "Kenapa?",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/kita": {
+    "hash": "e4f1cd3aae175b12ef0ebd4180a257b1f9a6594804206d2e635be30347587053",
+    "text": "kita",
+    "transcript": "Kita",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/kolam_renang": {
+    "hash": "aa6ed194e8cc5ae366c631788f4d81031e53658d328bdedd47af8b83e615fc98",
+    "text": "kolam renang",
+    "transcript": "Kolam renang",
+    "seed": 43,
+    "verifiedBy": "whisper"
+  },
+  "words/kucing": {
+    "hash": "0505d6e1c1d832551eae380e656728ab57ce5f4c3b5c5f2bb8c22b8baf47c0b2",
+    "text": "kucing",
+    "transcript": "Kuching",
+    "seed": 47,
+    "verifiedBy": null
+  },
+  "words/kuda": {
+    "hash": "abc696b15c7418efcc285a933d1b983e7656299a77ddd7ec5c9a9d17fb1d5018",
+    "text": "kuda",
+    "transcript": "Kuda",
+    "seed": 43,
+    "verifiedBy": "whisper"
+  },
+  "words/kue": {
+    "hash": "008127658e5e282d6a9d64235c6e52740e882cc609e9dcae74b591cbbd7497d0",
+    "text": "kue",
+    "transcript": "Cue.",
+    "seed": 47,
+    "verifiedBy": null
+  },
+  "words/kuning": {
+    "hash": "215c1677f027b51cd0ad8169d0c5365a3c9b6055e0038ca66ee284168bfe90b2",
+    "text": "kuning",
+    "transcript": "Kuning",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/kupu_kupu": {
+    "hash": "4bf13aa60980cf1de9f3292142543c72a19fe98f784c1da7b85369ee56411ca3",
+    "text": "kupu-kupu",
+    "transcript": "Kupukupu!",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/lagi": {
+    "hash": "41ba73ba586278f789fcbc66f718da384d2eea5b153721b7ea613ce52ab32dd9",
+    "text": "lagi",
+    "transcript": "lagi",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/lapar": {
+    "hash": "f15ffe086ec230cd563bde6b28b7e1bdd0c9e15fc1b4c33759d078a94883c99a",
+    "text": "lapar",
+    "transcript": "lapar",
+    "seed": 43,
+    "verifiedBy": "whisper"
+  },
+  "words/lari": {
+    "hash": "ced32c8cb5f1958829316f3083d645d730c2b8a61088c452c1bef6d327c5c8fd",
+    "text": "lari",
+    "transcript": "Lari",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/lihat": {
+    "hash": "0586441edf871435b29e28d39768bfb49311e1220fed2f8d6ad4b483416dab1b",
+    "text": "lihat",
+    "transcript": "Lihat",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/maaf": {
+    "hash": "b26168d1e360082c8a51d21c72d9c75b6d77e387a15b95f4798976f7dcdacfc6",
+    "text": "maaf",
+    "transcript": "Maaf",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/main": {
+    "hash": "f6c09fb5bab6ed31a7756615b683d86bba6ae28d98ba5f2d9341f44dc36c0308",
+    "text": "main",
+    "transcript": "Main",
+    "seed": 44,
+    "verifiedBy": "whisper"
+  },
+  "words/makan": {
+    "hash": "84a1ec7ab9038072a481ac51c0895ffec1cc08370e84a1a5fece7f523c75b441",
+    "text": "makan",
+    "transcript": "Makan",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/malu": {
+    "hash": "9f21415cd9e004243b64bd8de15e0bab84b5b0bb285e3f5174fa796319dcef74",
+    "text": "malu",
+    "transcript": "Malu",
+    "seed": 44,
+    "verifiedBy": "whisper"
+  },
+  "words/mandi": {
+    "hash": "1da65047aa1d80c75f5a5f6e3e889af95b05f2741e3a180bb99343f4bcfb7d46",
+    "text": "mandi",
+    "transcript": "Mandi",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/marah": {
+    "hash": "1202ac84981283c6e9b3060a21a63274d1e7e5e12274016956d7a845aab75b91",
+    "text": "marah",
+    "transcript": "Marah",
+    "seed": 43,
+    "verifiedBy": "whisper"
+  },
+  "words/mata": {
+    "hash": "273d673d3d90d852f5e3183da5b9e5fbd7a82d2d4a620f07613fd640ed661e75",
+    "text": "mata",
+    "transcript": "Mata",
+    "seed": 47,
+    "verifiedBy": "whisper"
+  },
+  "words/mau": {
+    "hash": "cc4169ea82b388846f8a596be6a49acdda32f17aa19c4d0d0f86c270a7eb30c2",
+    "text": "mau",
+    "transcript": "Mau",
+    "seed": 43,
+    "verifiedBy": "whisper"
+  },
+  "words/menggambar": {
+    "hash": "64d29ab88dad8fc7685ecc1ec356c75a2d6e53eeb39887e5b8ea0ffb19bd8660",
+    "text": "menggambar",
+    "transcript": "Menggambar",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/merah": {
+    "hash": "b6eab0a588d80c30ee437e23055478d29b5df3d2ce60f4dd06d614223fd81983",
+    "text": "merah",
+    "transcript": "Merah",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/mi": {
+    "hash": "42e6442f210a815371f86a2ed46af18ca690b83f49f0fe65b090f58c0b1508ea",
+    "text": "mi",
+    "transcript": "Mi?",
+    "seed": 45,
+    "verifiedBy": "whisper"
+  },
+  "words/minum": {
+    "hash": "2d05561103a95806220460da4988cf61f7cf9a3553c93814dfa6a4d1f1ae8be8",
+    "text": "minum",
+    "transcript": "Minum",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/mobil": {
+    "hash": "e8abf637e442499b31f101a361d0cc192dfc44d0014c91afa3828bb9174769cd",
+    "text": "mobil",
+    "transcript": "Mobil?",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/monyet": {
+    "hash": "712baba4497bbd50728da43c42bf38f3f2a4cbd8b7c2492bf9c507a404d483f9",
+    "text": "monyet",
+    "transcript": "Monyet",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/mulut": {
+    "hash": "7f34df5fae28d3126a2466688ed461888c1dfb4ec0afcb55f0ab325fbc0671c8",
+    "text": "mulut",
+    "transcript": "Mulut",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/musik": {
+    "hash": "d38040bc1acbb17111e062f9b76ef6afab6555ce5589b9be93e9283d82f74c41",
+    "text": "musik",
+    "transcript": "musik",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/nasi": {
+    "hash": "69f9b8efb12b9d49dfaabf5d237c70366c059830313bf9875d3bdf115af9ed34",
+    "text": "nasi",
+    "transcript": "Nasi",
+    "seed": 43,
+    "verifiedBy": "whisper"
+  },
+  "words/nenek": {
+    "hash": "995e9b67f4fcf9755b1af21716f7892bac7216f55382f8294d67d23b1392469f",
+    "text": "nenek",
+    "transcript": "Nene",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/ngantuk": {
+    "hash": "db2d3e537dbce8b105c345e5153253003ec28c016a974b42094839b58a5bc6eb",
+    "text": "ngantuk",
+    "transcript": "Ngantuk",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/nyanyi": {
+    "hash": "8e2847e589c91bbe50f38679767768b6c109f3256a948ff1931aaa6abbdb10ae",
+    "text": "nyanyi",
+    "transcript": "",
+    "seed": 47,
+    "verifiedBy": null
+  },
+  "words/oranye": {
+    "hash": "573aa32dd3c312796dbe180c247a03afc70458fb2a0ac65de6923548763fb49c",
+    "text": "oranye",
+    "transcript": "Orangnya",
+    "seed": 47,
+    "verifiedBy": null
+  },
+  "words/pantai": {
+    "hash": "54dd6482f96c7e95f4392f5660314c6e89f699f91e98b3e515f0f6f3be67f485",
+    "text": "pantai",
+    "transcript": "PANTAI",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/peluk": {
+    "hash": "c73a0ab6d25baedda4eb02dfd72a2d17368e6e8b9304a6cd55becc71d67dc65a",
+    "text": "peluk",
+    "transcript": "",
+    "seed": 47,
+    "verifiedBy": null
+  },
+  "words/pergi": {
+    "hash": "605ac00ce98c60f4a8c4c6bdd5142b5672a71b4b7dcefe391fc4969bc3c0e831",
+    "text": "pergi",
+    "transcript": "Pergi",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/permen": {
+    "hash": "14f03caf1ba8980e4eed8bf13bf031a349b48c14fcfe5553af4e803c6a48cb5c",
+    "text": "permen",
+    "transcript": "Permen",
+    "seed": 43,
+    "verifiedBy": "whisper"
+  },
+  "words/pisang": {
+    "hash": "678622d463554609dff9e5d77eb8d1ac604a3da92ff5675719dc8b2cd2735bb0",
+    "text": "pisang",
+    "transcript": "Pisang",
+    "seed": 44,
+    "verifiedBy": "whisper"
+  },
+  "words/putih": {
+    "hash": "ad77238bba46bdeedd7aad98d1f68af95b55a21f8c015c81c8fc830551019680",
+    "text": "putih",
+    "transcript": "Putih",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/puzzle": {
+    "hash": "3d4e509f3dba5c351605857860c5cd0c6d80b908a0849e0ecf7f13934299eb79",
+    "text": "pazel",
+    "transcript": "Puzzle?",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/roti": {
+    "hash": "b6cc853c29ef62388e155b405c7d719aab2756fbd615044ba637de43b1c5856b",
+    "text": "roti",
+    "transcript": "Roti",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/rumah": {
+    "hash": "9e3586ae471659f060cdd3d73e99e7f2ad0b90a7eea5cdb70eddd1c730039b6a",
+    "text": "rumah",
+    "transcript": "Rumah",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/rumah_sakit": {
+    "hash": "721e29c4b82249046f979e516c27492c9b8959902fbba006c459f527badca87f",
+    "text": "rumah sakit",
+    "transcript": "Rumah sakit",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/sakit": {
+    "hash": "7cb5917c2ea0e48c79a83e973281945423dbb89029f5a80a9de5b50d7d65adcd",
+    "text": "sakit",
+    "transcript": "Sakit",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/sapi": {
+    "hash": "0e7f61937debd80bae073747690950559a985863442abed07076614524beb6bb",
+    "text": "sapi",
+    "transcript": "Sapi",
+    "seed": 44,
+    "verifiedBy": "whisper"
+  },
+  "words/sayang": {
+    "hash": "1a3fa02b197a6d3f4b063baae0d3aea390d96f2f8cafedb6df442d165ad47869",
+    "text": "sayang",
+    "transcript": "Sayang",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/sayur": {
+    "hash": "9c5c0b6355c5b56a4a1f759bd27ab44d3a6b92854857af340e6badefbc445996",
+    "text": "sayur",
+    "transcript": "Sayur",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/sedih": {
+    "hash": "8963a229c7754ceea8f67aed6bb2d2e9dbe9953390f8fefcfe13bddd113fe2e4",
+    "text": "sedih",
+    "transcript": "Sedih",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/sekolah": {
+    "hash": "8619f26b46405b159841a9d038898d4b45f20bd7915c5ddf3efa62603e6494e6",
+    "text": "sekolah",
+    "transcript": "Sekolah",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/selamat_malam": {
+    "hash": "3a87a74812d0d5475c6bf9ad82619733a14069eba0a391b09cc225c1e3c7d230",
+    "text": "selamat malam",
+    "transcript": "Selamat malam!",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/selamat_pagi": {
+    "hash": "5b89e85589c97b7506056f23302f000d0b031d1e2ba4fc46004d2b601e2b7fb4",
+    "text": "selamat pagi",
+    "transcript": "Selamat pagi.",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/selesai": {
+    "hash": "45b5f2f5052aaf1740d28ff765fe32c349c01893c914f1e9b166a620a3af8634",
+    "text": "selesai",
+    "transcript": "Selesai.",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/semangka": {
+    "hash": "d1a1e834b0c19057be0f14b5522082e8df6a42b08e6b63687a39de5209b5bb59",
+    "text": "semangka",
+    "transcript": "semangka",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/senang": {
+    "hash": "3ab741da3a9eb712c874c9bd526f1c0d0190b5724a2fbcfc6d2570e09d4b3a5c",
+    "text": "senang",
+    "transcript": "Senang",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/sepatu": {
+    "hash": "69942b47e56896549b8782022974255bef3939388f05b01ddcd5746bd61de945",
+    "text": "sepatu",
+    "transcript": "Sepatu",
+    "seed": 43,
+    "verifiedBy": "whisper"
+  },
+  "words/sepeda": {
+    "hash": "66721d5659e67c411eb2f5bbd3c1ee13ba161aa370580b7a4fbedacc8a3b3c77",
+    "text": "sepeda",
+    "transcript": "sepeda",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/siapa": {
+    "hash": "9af44d1048e0b24eba5db9c7f9e38770b41a26c4c43aee632c281520df6c0c97",
+    "text": "siapa",
+    "transcript": "Siapa",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/sudah": {
+    "hash": "be823c521f6ca321147e58b2ff29def2f4adb9491fa87a90123669c1bc9f5d38",
+    "text": "sudah",
+    "transcript": "Sudah",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/suka": {
+    "hash": "09f783588adf92ff4c02d46e7d3ededdfbfb34c64761d3ac55e5bdd5c1866142",
+    "text": "suka",
+    "transcript": "Suka",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/susu": {
+    "hash": "a11b6d29f7da24fb02791af05674faa7a91d721d13815ea947c0557e7b4656a9",
+    "text": "susu",
+    "transcript": "Susu",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/takut": {
+    "hash": "90a70b5373453e2db72372200a13555ab851f916e9912b58e0603acece57f679",
+    "text": "takut",
+    "transcript": "Takut",
+    "seed": 43,
+    "verifiedBy": "whisper"
+  },
+  "words/taman": {
+    "hash": "614293e7ec59133d745c6d2ccb3c614271d7637626c9fdb279112a36cf174a28",
+    "text": "taman",
+    "transcript": "Taman",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/tangan": {
+    "hash": "4280a9b2d16870278b37df3feb5c99de2b63180e0d3ce4e44f48891e117f0203",
+    "text": "tangan",
+    "transcript": "",
+    "seed": 47,
+    "verifiedBy": null
+  },
+  "words/tas": {
+    "hash": "ed764931fd5a24fc9f579cd0f53abcad611c2aa3682aed8bbfb47e4e6caffd13",
+    "text": "tas",
+    "transcript": "",
+    "seed": 47,
+    "verifiedBy": null
+  },
+  "words/teh": {
+    "hash": "b4caa3b1324fb28ca4bb5cb7d8da73cc0dc933dde9213dac19734a8e009292fd",
+    "text": "teh",
+    "transcript": "",
+    "seed": 47,
+    "verifiedBy": null
+  },
+  "words/telinga": {
+    "hash": "4a4297817f7157a02343277b0289df8a558a816f4cd18bd968508bef0f26ec48",
+    "text": "telinga",
+    "transcript": "Telinga",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/telur": {
+    "hash": "3ca47558bd9f0c20f2f0b0422c772d082c94a13733110417cea1786b25fe848e",
+    "text": "telur",
+    "transcript": "Telur",
+    "seed": 44,
+    "verifiedBy": "whisper"
+  },
+  "words/teman": {
+    "hash": "93150afec8abf85b2a085fbf4ff7ed2b523c0c7d25a70d28c3fb01ba867a6886",
+    "text": "teman",
+    "transcript": "Teman",
+    "seed": 46,
+    "verifiedBy": "whisper"
+  },
+  "words/terima_kasih": {
+    "hash": "22a7afefcf508bfa64b9cd7794367c6947cd4a69f53528fa9d9150b1e97571cd",
+    "text": "terima kasih",
+    "transcript": "Terima kasih.",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/tidak": {
+    "hash": "2bc1749fd695e18084bea0f807d8990638e3f0a77ac58146209f35468015a772",
+    "text": "tidak",
+    "transcript": "Tidak",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/tidur": {
+    "hash": "ec61a9aa09da684e1f7ed490d53df692239beba7818d4bf58061f7f08f59fddc",
+    "text": "tidur",
+    "transcript": "Tidur",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/toko": {
+    "hash": "d2824b58c0017a7b5e5a5f4331b3d7a871ad2b431600bcc7bd1c179a85db2e7d",
+    "text": "toko",
+    "transcript": "toko",
+    "seed": 43,
+    "verifiedBy": "whisper"
+  },
+  "words/tolong": {
+    "hash": "65d8100c010041dfa20c368f05eb469b1008221644f25e4cee0dee27c35cd728",
+    "text": "tolong",
+    "transcript": "Tolong!",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/topi": {
+    "hash": "7f5c1339bfcdfc3e6d47876426198949834ed144280de397f4de01369e6affe3",
+    "text": "topi",
+    "transcript": "Topik",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/tunggu": {
+    "hash": "304d0d65d5c2b8aeb3a7a15c0094010072a4f493e7fcc71c3b6f1909e0c7cbc9",
+    "text": "tunggu",
+    "transcript": "Tunggu",
+    "seed": 43,
+    "verifiedBy": "whisper"
+  },
+  "words/tutup": {
+    "hash": "88e2fc0ee3af289bccad3902d5a7e9468d037066870f518154ac6fcb04c5264b",
+    "text": "tutup",
+    "transcript": "Tutup",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/ungu": {
+    "hash": "181864016d7929ac6606027a8f6d3097edcd30dec787bdf246ae8ded174d62fe",
+    "text": "ungu",
+    "transcript": "ungu",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/video": {
+    "hash": "627f6cee665fc6cfb60803a01c92e6474b4182128e011c268ed34a647b0734ee",
+    "text": "video",
+    "transcript": "Video",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  },
+  "words/ya": {
+    "hash": "b3a1c90e71dd7425c3de9fa623dcc253131875ccf715261da0345ae1a36752e6",
+    "text": "ya",
+    "transcript": "Ya",
+    "seed": 42,
+    "verifiedBy": "whisper"
+  }
+}
