@@ -1,0 +1,20 @@
+{
+  "name": "@tutur/voicegen",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.ts",
+    "typecheck": "tsc",
+    "test": "node --test src/*.test.ts",
+    "serve": "node src/serve.ts"
+  },
+  "dependencies": {
+    "@tutur/vocab": "workspace:*",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "typescript": "~6.0.3"
+  }
+}

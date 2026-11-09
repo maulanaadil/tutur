@@ -1,0 +1,11 @@
+node_modules/
+.turbo/
+.expo/
+dist/
+web-build/
+*.log
+.DS_Store
+.env*.local
+.context/
+tools/voicegen/preview/
+tools/voicegen/.cache/

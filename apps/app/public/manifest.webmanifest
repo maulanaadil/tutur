@@ -1,0 +1,18 @@
+{
+  "name": "Tutur — Papan bicara bergambar untuk anak",
+  "short_name": "Tutur",
+  "description": "Ketuk gambar, susun kalimat, lalu dengarkan dalam suara anak berbahasa Indonesia.",
+  "lang": "id",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FFF8EE",
+  "theme_color": "#0F7F70",
+  "categories": ["education", "kids", "medical"],
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
