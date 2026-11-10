@@ -1,0 +1,20 @@
+"$schema" = "https://conductor.build/schemas/settings.repo.schema.json"
+
+[scripts]
+setup = "pnpm install"
+run_mode = "concurrent"
+
+[scripts.run.web]
+available_in = [ "local" ]
+command = "EXPO_PUBLIC_VOICE_SERVER_URL=http://localhost:$((CONDUCTOR_PORT + 1)) pnpm --filter @tutur/app exec expo start --web --port $CONDUCTOR_PORT"
+default = true
+icon = "play"
+
+[scripts.run.voice]
+available_in = [ "local" ]
+command = "pnpm --filter @tutur/voicegen serve --port $((CONDUCTOR_PORT + 1))"
+icon = "audio-lines"
+
+[scripts.run.test]
+command = "pnpm test"
+icon = "test-tube"
