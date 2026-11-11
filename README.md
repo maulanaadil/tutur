@@ -2,6 +2,16 @@
 
 An Indonesian AAC app for children who are learning to speak. The child taps symbols, builds a sentence, and hears it in a natural Bahasa Indonesia voice that sounds the same every time and works offline.
 
+![The board on a tablet: the child built "aku mau makan" and the mascot Tari cheers "Hebat!"](docs/screenshots/board.png)
+
+| Play board | Typing a new word | Parent settings |
+|---|---|---|
+| ![The play category with ball, balloon, car and toy symbols](docs/screenshots/board-play.png) | ![The typing screen reading a typed sentence in the child's voice](docs/screenshots/typing.png) | ![Parent settings with mascot choice, reduced motion, praise and grid columns](docs/screenshots/parent.png) |
+
+<p align="center">
+  <img src="docs/screenshots/phone.png" width="300" alt="The board on a phone in a three-column layout">
+</p>
+
 ## Layout
 
 | Path | What it is |
