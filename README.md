@@ -76,5 +76,6 @@ The web build is pre-rendered (`web.output: "static"`), so search engines and li
 
 ## Licences
 
+- Code, mascots and app icon: MIT (`LICENSE`).
 - Symbols: [OpenMoji](https://openmoji.org), CC BY-SA 4.0 (`packages/symbols/OPENMOJI-LICENSE.txt`).
 - Voices: rendered with OmniVoice (k2-fsa) through VoiceStudio. VoiceStudio is AGPL-3.0. Board clips are pre-rendered, so the app never bundles it. The typed-word voice server does call it over the network, which is fine for local use. Before offering that server to the public, either host the OmniVoice model (Apache-2.0) directly or take VoiceStudio's commercial licence.
